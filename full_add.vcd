@@ -1,0 +1,59 @@
+$date
+	Sun May 28 23:49:35 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module full_adder_test_verilog $end
+$var wire 1 ! a $end
+$var wire 1 " b $end
+$var wire 1 # cin $end
+$var wire 1 $ sum $end
+$var wire 1 % carry $end
+$scope module full_add $end
+$var wire 1 ! a $end
+$var wire 1 " b $end
+$var wire 1 % carry $end
+$var wire 1 # cin $end
+$var wire 1 $ sum $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0%
+0$
+0#
+0"
+0!
+$end
+#1000
+1$
+1#
+#2000
+0#
+1"
+#3000
+1%
+0$
+1#
+#4000
+0%
+1$
+0#
+0"
+1!
+#5000
+1%
+0$
+1#
+#6000
+0#
+1"
+#7000
+1$
+1#
+#8001

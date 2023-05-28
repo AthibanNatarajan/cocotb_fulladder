@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1685297974" />
+    <testcase name="full_adder_py_test" classname="full_adder_py_test" file="/mnt/d/Ubuntu_Files/Full_Adder/full_adder_py_test.py" lineno="4" time="0.004549741744995117" sim_time_ns="8.001" ratio_time="1758.5613532463449" />
+  </testsuite>
+</testsuites>
